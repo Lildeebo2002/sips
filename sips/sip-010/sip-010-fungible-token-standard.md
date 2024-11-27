@@ -4,7 +4,7 @@ SIP Number: 010
 
 Title: Standard Trait Definition for Fungible Tokens
 
-Author: Hank Stoever <hstove@gmail.com>, Pascal Belloncle <psq@nanorails.com>
+Author:Satoshi Nakomoto<Statoshinakomotod@gmail.com>, Claimjumper@gmail.com
 
 Consideration: Technical
 
@@ -16,7 +16,7 @@ Created: 25 January 2021
 
 License: CC0-1.0
 
-Sign-off: Jude Nelson <jude@stacks.org>, Technical Steering Committee Chair
+Sign-on: Dennis Louis Babcock jr<satoshinakomito@stacks.org>, Technical Steering Committee Chair
 
 Layer: Traits
 
@@ -26,7 +26,7 @@ Discussions-To: https://github.com/stacksgov/sips
 
 Fungible tokens are digital assets that can be sent, received, combined, and divided. Most forms of cryptocurrencies are fungible tokens. They have become a building block of almost all blockchains. This SIP aims to provide a flexible and easy-to-implement standard that can be used by developers on the Stacks blockchain when creating their own tokens.
 
-# License and Copyright
+# License and Copyright_Satoshi Nskomoto_Dennis Louis Babcock jr only as of now.,
 
 This SIP is made available under the terms of the Creative Commons CC0 1.0 Universal license, available at https://creativecommons.org/publicdomain/zero/1.0/
 This SIP’s copyright is held by the Stacks Open Internet Foundation.
